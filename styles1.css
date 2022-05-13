@@ -1,0 +1,118 @@
+header{
+    background-color: black;
+    color:#feb16f;
+    padding-left: 50px;
+    margin-left: 30%;
+    padding-right: 2.2%;
+    padding-bottom: 7px;
+padding-top: 7px;
+    text-align: center;
+    width:20%; 
+    font-family: arial;
+}
+
+.login{
+    border:1px solid black;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 50px;
+    padding-right: 2%;
+    max-width:20%;
+    margin-top: 0px;
+    margin-left: 30%;
+    font-family: arial;
+}
+
+.login h2{
+    text-align: start;
+    font-size: 35px;
+    font-family: arial;
+}
+
+.login form input{
+    text-align: start;
+    padding: 0 0;
+    box-sizing: content-box;
+}
+
+.login form label{
+    font-size: 13px;
+}
+
+.login form .submit{
+    padding-right: 50px;
+}
+
+.login form button{
+    background-color: #feb16f;
+    padding-right: 92px;
+    padding-left: 92px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.login div {
+    font-size: 10px;
+    font-family: arial;
+    text-decoration: none;
+}
+
+.login div p{
+    text-decoration: none;
+}
+
+.create{
+    text-align: justify;
+    line-height: 0;
+   position: relative;
+    top: 0px;
+    padding-top: 1px;
+    margin-bottom: 14px;
+    padding-left: 35%;
+}
+
+.create h4{
+    color:#111;
+    padding-left: 6%;
+    
+}
+
+.create button{
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+footer{
+    padding-left: 33%;
+    width:25%;
+    font-size: 11px;
+    text-align: center;
+}
+
+footer ul{
+    white-space: nowrap;
+    
+}
+
+footer ul li a{
+    text-decoration: none;
+    padding-right: 10px;
+}
+
+footer ul li{
+    float: left;
+}
+
+footer p{
+    padding-left:26%;
+    text-align: left;
+}
+
+.login form input:focus{
+    border:2px solid #e99144;
+}
+
+.login form button:hover{
+background-color: #e99144;
+}
